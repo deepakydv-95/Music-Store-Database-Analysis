@@ -202,4 +202,3 @@ B.Sc. Computer Science | Data Analyst / Data Science Enthusiast
 
 ---
 
-⭐ If you found this project useful, consider giving the repository a **star**!
