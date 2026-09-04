@@ -148,14 +148,7 @@ The analysis helps the business identify:
 
 ## 📁 Project Structure
 
-```text
-Music-Store-Database-Analysis/
-│
-├── README.md
-├── Music_Store_Analysis.sql
-└── dataset/
-    └── music_store_database
-```
+
 
 ---
 
