@@ -146,35 +146,6 @@ The analysis helps the business identify:
 
 ---
 
-## 📁 Project Structure
-
-
-
----
-
-## 🚀 How to Run the Project
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/deepakydv-95/Music-Store-Database-Analysis.git
-```
-
-### Step 2: Open PostgreSQL
-
-Create or import the Music Store database into PostgreSQL.
-
-### Step 3: Run SQL Queries
-
-Open:
-
-```text
-Music_Store_Analysis.sql
-```
-
-Run the queries in PostgreSQL/pgAdmin to reproduce the analysis.
-
----
 
 ## 📈 Project Outcome
 
